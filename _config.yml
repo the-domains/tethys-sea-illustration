@@ -1,0 +1,28 @@
+name: Tethys Sea Illustration
+favicon: null
+layout_spectrum: 0.9840404642745852
+typography_spectrum: 0.5526304964441806
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.43783627124503255
+  lightness: 0.7257112124934793
+  saturation: 0.9845020091161132
+  rhythmicContrast: 0.9173103906214237
+purpose: []
